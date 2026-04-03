@@ -42,7 +42,7 @@ KMEANS_CLUSTERING/
 ├── data/
 │   ├── IPL_Ball_by_Ball_2008_2022.csv
 │   ├── student_clustering.csv
-│   └── yellow_tripdata_2016-01.csv
+│   └── yellow_tripdata_2016-01.csv #please download from given link in notebook
 │
 ├── notebooks/
 │   ├── 01_kmeans_basics.ipynb
